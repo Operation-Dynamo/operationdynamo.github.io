@@ -1,4 +1,4 @@
-# **OPERATION DYNAMO (A Product of Conva LLC)** TERMS OF SERVICE
+# **OPERATION DYNAMO (A Creation of Conva LLC)** TERMS OF SERVICE
 
 Last Updated: **March 23, 2020**
 

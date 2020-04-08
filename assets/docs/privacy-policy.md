@@ -1,4 +1,4 @@
-# **OPERATION DYNAMO (A Product of Conva LLC)** PRIVACY POLICY
+# **OPERATION DYNAMO (A Creation of Conva LLC)** PRIVACY POLICY
 
 Last Updated: **March 23, 2020**
 

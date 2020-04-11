@@ -24,7 +24,7 @@ Please send an email to [contact@operationdynamo.org](mailto:contact@operationdy
 Please contact us at [support@operationdynamo.org](mailto:support@operationdynamo.org)
 
 ## How can I help?
-If you are a maker or a doctor or a hospital please reach out and get a referal code. This only works if we can grow this community, so please spread the word. We need to grow both the supply and demand side of this problem. Every share matters in getting part requests matched with makers ready to act.  
+If you are a maker or a doctor or a hospital please reach out and get a referral code. This only works if we can grow this community, so please spread the word. We need to grow both the supply and demand side of this problem. Every share matters in getting part requests matched with makers ready to act.  
 
 ## Is there A Discord or Slack?
 [Yes!](https://discord.gg/j8jmQsx)

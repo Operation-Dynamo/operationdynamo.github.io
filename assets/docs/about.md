@@ -16,4 +16,10 @@
    <br>
    <em style="margin-left: 50px;"><a href="https://farzon.org">Farzon Lotfi</a></em>
  </div>
+
+ <div style="margin-left : 10px;">
+  <img style="border-radius: 50%;" src="https://i.imgur.com/VjHg54x.jpg" width="200" height="200" /> 
+   <br>
+   <em style="margin-left: 50px;"><a href="https://nima.sh">Nima Shoghi</a></em>
+ </div>
 </div>

@@ -4,4 +4,4 @@ Thanks for checking out this site. We face a daunting challenge in the coming we
 
 Thank you,
 
-Afshawn & Farzon
+Afshawn, Farzon, & Nima

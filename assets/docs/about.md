@@ -22,4 +22,12 @@
    <br>
    <em style="margin-left: 50px;"><a href="https://nima.sh">Nima Shoghi</a></em>
  </div>
+
+ <div style="margin-left : 10px;">
+   <img style="border-radius: 50%;" src="assets/images/rayan.png" width="200" height="200" />
+   <br>
+   <em style="margin-left: 50px;"><a>Rayan Lotfi</a></em>
+ </div>
+
+
 </div>
